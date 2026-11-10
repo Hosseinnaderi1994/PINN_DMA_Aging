@@ -8,4 +8,4 @@ Please save the files. Open the ML model in the MATLAB software. All data and co
 ## Citation
 If you are using this code in your research or publications, please cite the following article, which was published in the Journal of Mechanics of Materials:
 
-Naderi, H. and Dargazany, R., 2026. A Physics-Informed Neural Network Framework for Predicting the Dynamic Mechanical Response of Thermally Aged Viscoelastic Polymers, Mechanics of Materials,2026.
+Hossein Naderi, Roozbeh Dargazany, A physics-constrained neural network framework for predicting the dynamic mechanical response of thermally aged viscoelastic polymers, International Journal of Non-Linear Mechanics, 2026, 105455.
